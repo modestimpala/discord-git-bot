@@ -1,0 +1,15 @@
+{
+  "name": "github-discord-bot",
+  "version": "1.0.0",
+  "description": "Posts GitHub activity to Discord",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
